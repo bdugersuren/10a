@@ -1,4 +1,5 @@
-https://github.com/bdugersuren/10a.git
-dsfdsd
-sdf
-s
+https://informatics.msk.ru/mod/statements/view.php?id=72592#1
+
+
+Дээрх холбоосоор орж бодлого бодож илгээнэ үү
+
